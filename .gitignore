@@ -1,0 +1,8 @@
+# Configuración local con credenciales
+/js/config.js
+.env
+.env.*
+!.env.example
+
+# Archivos de macOS
+.DS_Store
